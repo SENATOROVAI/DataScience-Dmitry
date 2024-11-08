@@ -159,15 +159,16 @@ Calculus:
 
 Горячие формулы - хелперы https://t.me/c/1937296927/888/23345
 
-Пределы 
+Пределы
 Калькулятор пределов https://mathdf.com/lim/ru/
 Калькулятор пределов https://www.wolframalpha.com/input?i=limit+%281%2B1%2Fn%29%5En+as+n-%3Einfinity
 
-1 и 2 пункт делаем параллельно, каждую тему из видео нужно проработать на примерах из 3, 4, 5 пунктов.
-1)свой конспект сохранить в \Math\calculus\limit\название_последней_темы_дата.pdf, https://www.youtube.com/watch?v=zkTFyZVav-s&list=PLGtfmJuN1mTD2ND-zeBWHv3ACO5J0G9DR (Весь плейлист) (больше теории)
-2)https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr ДО 6 видео(производная), (больше практики)
-3)https://www.lektorium.tv/matematicheskij-analiz (прочитать весь "Список теоретических материалов"(под видео) и выписать в тетрадь все ПРИМЕРЫ И РЕШЕНИЯ), пройти до производных!
+(option) https://www.youtube.com/watch?v=zkTFyZVav-s&list=PLGtfmJuN1mTD2ND-zeBWHv3ACO5J0G9DR (Вся теория)
+
+1)https://www.lektorium.tv/matematicheskij-analiz (прочитать весь "Список теоретических материалов"(под видео) и выписать в тетрадь все ПРИМЕРЫ И РЕШЕНИЯ), пройти до производных!
 конспект сохраняешь в \Math\calculus\lektorium\topic_name.pdf  topic_name - название темы
+2)https://www.youtube.com/watch?v=ZAiDxlBCW28&list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr посмотреть ДО 6 видео(производная) 
+свой конспект сохранить в \Math\calculus\limit\название_последней_темы_дата.pdf
 4)пределы https://www.matburo.ru/ex_ma.php?p1=mapred  минимум 3 примера
 4.1)непрерывность и точки разрыва, https://www.matburo.ru/ex_ma.php?p1=manepr первые 3 задачи
 5) переписать и разобрать минимум 3 папки, 1,7,15 \Math\calculus\theory\Пределы_решения
