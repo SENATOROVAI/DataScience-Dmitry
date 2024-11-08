@@ -13,7 +13,7 @@
 
 # %%
 """Log File."""
-sadawdawawdaadwdaw  gvhgv 
+
 # %% [markdown]
 # 04/11.
 #
